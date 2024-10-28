@@ -11,6 +11,11 @@ import java.security.KeyManagementException;
 import java.security.KeyStoreException;
 import java.security.NoSuchAlgorithmException;
 
+/**
+ * @author Junaid.Khan
+ */
+
+
 
 @Configuration
 public class ElasticConfiguration extends ElasticsearchConfiguration {
