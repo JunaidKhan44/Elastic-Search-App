@@ -7,7 +7,9 @@ import lombok.NoArgsConstructor;
 import org.springframework.data.annotation.Id;
 import org.springframework.data.elasticsearch.annotations.Document;
 
-
+/**
+ * @author Junaid.Khan
+ */
 
 @Data
 @AllArgsConstructor
